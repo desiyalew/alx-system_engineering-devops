@@ -1,4 +1,0 @@
-#!/bin/bash
-chmod --from=guillaume betty hello
-#!/bin/bsh
-chmod --from=guillaume betty hello
